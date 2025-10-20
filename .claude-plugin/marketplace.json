@@ -1,0 +1,24 @@
+{
+  "plugins": [
+    {
+      "name": "database-design",
+      "version": "1.2.2",
+      "path": "plugins/database-design"
+    },
+    {
+      "name": "database-migrations",
+      "version": "1.2.2",
+      "path": "plugins/database-migrations"
+    },
+    {
+      "name": "database-cloud-optimization",
+      "version": "1.2.2",
+      "path": "plugins/database-cloud-optimization"
+    },
+    {
+      "name": "observability-monitoring",
+      "version": "1.2.2",
+      "path": "plugins/observability-monitoring"
+    }
+  ]
+}
